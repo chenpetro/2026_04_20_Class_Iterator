@@ -1,4 +1,4 @@
-from intertools import count, repeat, cycle
+from itertools import count, repeat, cycle
 
 iterator = count(start=20)
 
